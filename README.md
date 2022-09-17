@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+Add a constants folder then add a new file called api_key.dart and there add your API_KEY from newsapi.org
+implement your error handling
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
